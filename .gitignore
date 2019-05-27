@@ -1,5 +1,5 @@
-.project
-.idea
+*.project
+*.idea
 # Compiled class file
 *.class
 
